@@ -1,0 +1,20 @@
+.tournament-content{
+    .createButton{
+        height: 200px;
+        width: 200px;
+    }
+    .cardButton{
+        height: 200px;
+        width: 200px;
+        border: 1px solid #3e3e3e;
+        box-shadow: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+.text-decoration-none{
+    text-decoration: none;
+}

@@ -1,0 +1,9 @@
+.button-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    .toggleButton{
+        margin-bottom: 20px;
+        width: 100%;
+    }
+}
